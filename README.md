@@ -1,7 +1,7 @@
 # SpringSecurity
 Objetivo del proyecto
-
 El objetivo principal de este proyecto es crear una API REST segura y escalable que permita la autenticación y autorización de usuarios mediante JWT. Además, se busca estructurar el código de manera modular para facilitar el mantenimiento y la expansión futura del sistema.
+
 
 Componentes clave
 
